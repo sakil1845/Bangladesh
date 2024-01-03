@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bangladesh</title>
+</head>
+<body>
+    <div style="background-color: aqua;">  
+    <h1>Bangladesh </h1>
+    <h2>Bangladesh Geographic description</h2>
+    <P><b>Bangladesh</b> my homeland.It is a very beautiful country in the world.Its volume is about 1,47,570km<sup>2</sup>.Its population is nearly 18 Million.If population density is so much high but people live here with very happiness.Bangladesh is a <em>reverside</em> country.So <strong>river</strong>is play a importance role in our life.some of them are 
+        <ul>
+            <li>Padma</li>
+            <li>Meghna</li>
+            <li>Jamuna</li>
+            <li>Kornofuly</li>
+            <li>Brammhaputra</li>
+        </ul>
+    </P>
+    Bangladesh is known for its vibrant history, ancient archeology, rich culture and beautiful landscape.<Some of the oldest Islamic, Bhuddist, and Hindu <span style="background-color: red;">archeological relics</span> can be found in Bangladesh.</p></div>
+</body>
+</html>
+
+
